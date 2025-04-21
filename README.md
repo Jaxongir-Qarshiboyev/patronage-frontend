@@ -112,6 +112,6 @@ Loyiha ochiq manba sifatida taqdim etiladi. Agar o‘zgarishlar kiritmoqchi bo�
 
 ## 📞 Aloqa
 
-Savollar yoki takliflar bo‘lsa, Jaxongir Qarshiboyev bilan bog‘laning.
+Savollar yoki takliflar bo‘lsa, [Jaxongir Qarshiboyev](https://github.com/Jaxongir-Qarshiboyev) bilan bog‘laning.
 
 © 2025 Hamshiralar Monitoring Tizimi loyihasi
